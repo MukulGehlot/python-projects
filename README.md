@@ -3,3 +3,4 @@
 2. Webscraping using the BeautifulSoup library
 3. Data Analysis
 4. Dashboard creation
+5. Editing
